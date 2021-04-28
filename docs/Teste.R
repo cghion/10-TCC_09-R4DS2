@@ -116,7 +116,7 @@ usethis::use_github()
 
 
 
+gitcreds::gitcreds_set()
+usethis::use_github()
 
-
-
-
+#Teste se subiu o novo
